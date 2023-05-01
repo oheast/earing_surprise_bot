@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+OpenDartReader==0.2.3
+pandas==2.0.1
+python-telegram-bot==20.2
+requests==2.29.0
